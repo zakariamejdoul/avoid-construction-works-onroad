@@ -1,7 +1,6 @@
-# avoid-construction-works-onroad
+# Avoid Construction Works On Road by Google Maps
 
-![alt tag](static/shot_2.png)
-![alt tag](static/shot_3.png)
-![alt tag](static/shot_4.png)
-
-<img src="static/shot_1.png" alt="1" width="100"/>
+<img src="static/shot_1.png" alt="1" width="250"/>
+<img src="static/shot_2.png" alt="1" width="250"/>
+<img src="static/shot_3.png" alt="1" width="250"/>
+<img src="static/shot_4.png" alt="1" width="250"/>
