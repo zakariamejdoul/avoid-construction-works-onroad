@@ -5,7 +5,7 @@ import com.google.android.gms.maps.model.LatLng;
 
 public class FetchUrl {
 
-    public static String key = "AIzaSyBbcpyrpUrhQM2E-kx7zdOiCgvXhvy3ekM";
+    public static String key = "YOUR GOOGLE MAPS API KEY VALUE";
 
     public static String getUrl(LatLng origin, LatLng dest) {
         String str_origin = "origin=" + origin.latitude + "," + origin.longitude;
